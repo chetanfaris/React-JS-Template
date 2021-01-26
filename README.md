@@ -2,6 +2,8 @@
 
 This repository is a template repository used to create react apps.
 
+Application is deployed at <https://chetanfaris.github.io/React-JS-Template/>
+
 ## Available Scripts
 
 In the project directory, you can run:
