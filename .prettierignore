@@ -1,0 +1,6 @@
+.gitignore
+.github
+.eslintrc.js
+
+/node_modules
+/public
